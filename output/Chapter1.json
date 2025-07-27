@@ -1,0 +1,90 @@
+{
+  "title": "Chapter1",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "# Chapter 1: The Rise of Modern Computing",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "## Section 1.1: Historical Background",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "### Subsection 1.1.1: The Mechanical Era",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "### Subsection 1.1.2: The Vacuum Tube Revolution",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "## Section 1.2: Transition to Modern Computers",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "# Chapter 2: Software Development Lifecycle",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "## Section 2.1: Requirements Gathering",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "## Section 2.2: Design Phase",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "### Subsection 2.2.1: High-Level Design",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "### Subsection 2.2.2: Low-Level Design",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "# Chapter 3: Programming Languages",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "## Section 3.1: Procedural Languages",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "## Section 3.2: Object-Oriented Languages",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "### Subsection 3.2.1: Inheritance and Polymorphism",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "### Subsection 3.2.2: Encapsulation and Abstraction",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "# Chapter 4: Conclusion",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "## Section 4.1: Future Prospects",
+      "page": 3
+    }
+  ]
+}
